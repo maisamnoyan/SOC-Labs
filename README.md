@@ -3,4 +3,4 @@ A repo of hands-on Security Operations Center (SOC) labs/projects. Each lab is a
 
 # Projects
 - [How to install and configure Snort](Snort.md)
-- [How to install and configure IPTables and Deploy a Honeypot](IPTables and Honeypots.md)
+- [How to install and configure IPTables and Deploy a Honeypot](IPTables-and-Honeypots.md)
